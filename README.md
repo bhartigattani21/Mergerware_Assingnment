@@ -11,11 +11,13 @@ Email Registration: Users can easily register with the system using their email 
 Role Selection: Users have the flexibility to choose their roles during registration or update them later, with options for admin, borrower, and lender roles.
 <h3>Borrower Functionality</h3>
 Loan Requests: Borrowers can seamlessly request loans through the system.
+<br>
 Loan History: Borrowers have access to a comprehensive history of their past loans.
-Lender Functionality
+<h3>Lender Functionality</h3>
 Confirm Payments: Lenders possess the ability to confirm loan payments.
+<br>
 Payment History: Lenders can conveniently access a record of past payments received.
-Real-time Dashboard Updates
+<h3>Real-time Dashboard Updates</h3>
 Dynamic Status Updates: Users experience real-time updates on their dashboards, reflecting changes in the status of their loan transactions.
 Admin Dashboard
 Transaction Histories: Admin users have privileged access to view complete transaction histories, ensuring transparency and oversight.
