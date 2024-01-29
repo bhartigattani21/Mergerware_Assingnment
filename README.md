@@ -23,7 +23,7 @@ Transaction Histories: Admin users have privileged access to view complete trans
 <h5>Getting Started</h5>
 Access the Loan Management System using the following URL: https://loan-management-mergerware.meteorapp.com/
 
-To begin, register as a user with your email address and choose your role. Perform actions based on your role:
+To begin, register as a user with your email address and choose your role. Perform actions based on your role:<br>
 Borrower: Request loans and view past loans.<br>
 Lender: Confirm loan payments and view past payments.<br>
 Admin: View complete transaction histories.
