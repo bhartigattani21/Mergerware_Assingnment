@@ -4,7 +4,6 @@ The Loan Management System is a comprehensive application designed to simplify a
 
 <h2>Features</h2>
 
-
 User Registration
 Email Registration: Users can easily register with the system using their email addresses.
 <br>
@@ -25,11 +24,10 @@ Transaction Histories: Admin users have privileged access to view complete trans
 Access the Loan Management System using the following URL: https://loan-management-mergerware.meteorapp.com/
 
 To begin, register as a user with your email address and choose your role. Perform actions based on your role:
-
-<br>Borrower: Request loans and view past loans.<br>
+Borrower: Request loans and view past loans.<br>
 Lender: Confirm loan payments and view past payments.<br>
 Admin: View complete transaction histories.
-#Contact
+<br>#Contact
 For any inquiries or assistance, please contact:
 
 Bharti Gattani
