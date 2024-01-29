@@ -1,0 +1,44 @@
+<template name="registration">
+  <div class="container mt-4">
+    <form id="registrationForm">
+        
+        <h1 class="h3 mb-3 fw-normal">Registration</h1>
+    
+        <!-- <div class="form-group row">
+          <input type="email" class="form-control" id="email" minlength="5" placeholder="name@example.com" required>
+          <label for="email">Email address</label>
+        </div>
+        <div class="form-group row">
+          <input type="password" class="form-control" minlength="6" id="password" placeholder="Password" required>
+          <label for="password">Password</label>
+        </div>
+        <div class="form-group row">
+            <input type="password" class="form-control" minlength="6" id="cpassword" placeholder="Password" required>
+            <label for="cpassword">Confirm Password</label>
+          </div> -->
+    
+          <div class="form-group row">
+            <label for="email" class="col-sm-2 col-form-label">Email</label>
+            <div class="col-sm-10">
+              <input type="email" class="form-control" id="email" minlength="5" placeholder="name@example.com" required>
+            </div>
+          </div>
+          <div class="form-group row">
+            <label for="password" class="col-sm-2 col-form-label mt-3">Password</label>
+            <div class="col-sm-10 mt-3">
+              <input type="password" class="form-control" minlength="6" id="password" placeholder="Password" required>
+            </div>
+          </div>
+          <div class="form-group row">
+            <label for="cpassword" class="col-sm-2 col-form-label mt-3">Confirm Password</label>
+            <div class="col-sm-10 mt-3">
+              <input type="password" class="form-control" minlength="6" id="cpassword" placeholder="Password" required>
+            </div>
+          </div>
+        <!-- <button class="w-100 mt-2 btn btn-lg btn-primary" type="submit">Create Account</button> -->
+        <button type="submit" class="btn btn-primary mt-3">Create Account</button>
+      </form>
+      <h6 class="mt-3">Already have account, <a href="{{pathFor 'login'}}">login here!</a></h6>
+      <p class="mt-5 mb-3 text-muted">&copy; Made with ❤ By SimarPreet Singh</p>
+    </div>
+</template>
