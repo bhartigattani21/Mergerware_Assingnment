@@ -19,7 +19,7 @@ Confirm Payments: Lenders possess the ability to confirm loan payments.
 Payment History: Lenders can conveniently access a record of past payments received.
 <h3>Real-time Dashboard Updates</h3>
 Dynamic Status Updates: Users experience real-time updates on their dashboards, reflecting changes in the status of their loan transactions.
-Admin Dashboard
+<h6>Admin Dashboard</h6>
 Transaction Histories: Admin users have privileged access to view complete transaction histories, ensuring transparency and oversight.
 Getting Started
 Access the Loan Management System using the following URL: https://loan-management-mergerware.meteorapp.com/
