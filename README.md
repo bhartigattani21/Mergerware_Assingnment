@@ -8,8 +8,7 @@ User Registration
 Email Registration: Users can easily register with the system using their email addresses.
 <br>
 Role Selection: Users have the flexibility to choose their roles during registration or update them later, with options for admin, borrower, and lender roles.
-<h5>Borrower Functionality</h5>
-Loan Requests: Borrowers can seamlessly request loans through the system.
+<h5>Borrower Functionality</h5> Loan Requests: Borrowers can seamlessly request loans through the system.
 <br>
 Loan History: Borrowers have access to a comprehensive history of their past loans.
 <h5>Lender Functionality</h5>
@@ -23,12 +22,13 @@ Transaction Histories: Admin users have privileged access to view complete trans
 <h5>Getting Started</h5>
 Access the Loan Management System using the following URL: https://loan-management-mergerware.meteorapp.com/
 
+
 To begin, register as a user with your email address and choose your role. Perform actions based on your role:<br>
 Borrower: Request loans and view past loans.<br>
 Lender: Confirm loan payments and view past payments.<br>
 Admin: View complete transaction histories.
+
 <br>#Contact
 For any inquiries or assistance, please contact:
-
 Bharti Gattani
 Email: bhartigattani21@gmail.com
