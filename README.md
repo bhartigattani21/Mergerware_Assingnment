@@ -2,7 +2,7 @@
 <h1>Loan Management System</h1>
 The Loan Management System is a comprehensive application designed to simplify and enhance loan transactions between borrowers and lenders. This system provides a user-friendly interface with distinct functionalities tailored for different user roles, including admin, borrower, and lender. Users can register using their email addresses, select their roles, request loans, manage payments, and access transaction history effortlessly.
 
-#Features
+<h2>Features</h2>
 
 
 User Registration
