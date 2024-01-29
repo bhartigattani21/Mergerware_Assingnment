@@ -9,7 +9,7 @@ User Registration
 Email Registration: Users can easily register with the system using their email addresses.
 <br>
 Role Selection: Users have the flexibility to choose their roles during registration or update them later, with options for admin, borrower, and lender roles.
-Borrower Functionality
+<h3>Borrower Functionality</h3>
 Loan Requests: Borrowers can seamlessly request loans through the system.
 Loan History: Borrowers have access to a comprehensive history of their past loans.
 Lender Functionality
