@@ -7,6 +7,7 @@ The Loan Management System is a comprehensive application designed to simplify a
 
 User Registration
 Email Registration: Users can easily register with the system using their email addresses.
+<br>
 Role Selection: Users have the flexibility to choose their roles during registration or update them later, with options for admin, borrower, and lender roles.
 Borrower Functionality
 Loan Requests: Borrowers can seamlessly request loans through the system.
