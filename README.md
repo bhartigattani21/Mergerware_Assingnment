@@ -2,7 +2,9 @@
 <h1>Loan Management System</h1>
 The Loan Management System is a comprehensive application designed to simplify and enhance loan transactions between borrowers and lenders. This system provides a user-friendly interface with distinct functionalities tailored for different user roles, including admin, borrower, and lender. Users can register using their email addresses, select their roles, request loans, manage payments, and access transaction history effortlessly.
 
-Features
+#Features
+
+
 User Registration
 Email Registration: Users can easily register with the system using their email addresses.
 Role Selection: Users have the flexibility to choose their roles during registration or update them later, with options for admin, borrower, and lender roles.
@@ -24,7 +26,7 @@ To begin, register as a user with your email address and choose your role. Perfo
 Borrower: Request loans and view past loans.
 Lender: Confirm loan payments and view past payments.
 Admin: View complete transaction histories.
-Contact
+#Contact
 For any inquiries or assistance, please contact:
 
 Bharti Gattani
